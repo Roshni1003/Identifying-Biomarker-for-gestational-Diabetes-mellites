@@ -1,0 +1,16 @@
+Dataset (RNA Seq) - My own Project
+
+Title : Systematic characterization of human placenta-derived circRNAs
+ and identification of autophagy-related circRNAs
+ in gestational diabetes mellitus [lncRNA]
+
+GEO accession : GSE206041
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi
+
+
+Gestational diabetes mellitus - Data bases - 
+My on going Project  @Bioinformatics  : 
+
+https://docs.google.com/spreadsheets/d/1BZQY8XJzGun--_FLTunOV2ShAXhpvAL2Fb64ePJFMBw/edit?usp=drivesdk
+(or)
+https://docs.google.com/spreadsheets/d/1BZQY8XJzGun--_FLTunOV2ShAXhpvAL2Fb64ePJFMBw/edit?gid=1473453220#gid=1473453220
